@@ -28,18 +28,15 @@ Este é um projeto simples de console que simula um sistema de estacionamento co
 - .NET SDK instalado
 - Terminal/Prompt de comando
 
-### Executando o programa
-
-1. Clone o repositório:
-```bash
+🚀 Como usar
+# Clone o repositório
 git clone https://github.com/seu-usuario/Sistema-de-estacionamento.git
-cd Sistema-de-estacionamento
-```
 
-2. Execute o programa:
-```bash
+# Entre na pasta
+cd Sistema-de-estacionamento
+
+# Execute o programa
 dotnet run
-```
 
 3. Siga as instruções na tela:
    - Digite os dados do veículo
